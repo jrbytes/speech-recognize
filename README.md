@@ -11,4 +11,3 @@ Script em *Python* para compreensão de fala.
 
 Dependencies:
 - SpeechRecognition
-- pyaudio
